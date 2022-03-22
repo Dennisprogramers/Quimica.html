@@ -18,4 +18,5 @@ document.write(saludo + nombre)
 }
 
  document.write(saludo + nombre)
+	alert(nombre + " bienvenido esta web todavia esta en desarrollo")
 }
